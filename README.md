@@ -12,23 +12,4 @@
   <span class="timeel seconds">00</span>
   <span class="timeel timeRefSeconds">seconds</span>
 </div>
-.countup {
-  text-align: center;
-  margin: 120px;
-}
-.countup .timeel {
-  display: inline-block;
-  padding: 10px;
-  background: #151515;
-  margin: 0;
-  color: white;
-  min-width: 2.6rem;
-  margin-left: 13px;
-  border-radius: 10px 0 0 10px;
-}
-.countup span[class*="timeRef"] {
-  border-radius: 0 10px 10px 0;
-  margin-left: 0;
-  background: #e8c152;
-  color: black;
-}
+
